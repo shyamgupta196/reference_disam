@@ -11,6 +11,8 @@ The method takes an input claim or sentence from the user, computes its similari
 
 ## Keywords
 
+source retrieval, scientific references, information retrieval
+
 ## Social Science Use Case(s)
 1. A social scientist wants to find which publication is possible mentioned in a claim/statement. 
 2. A social scientist wants to find topically similar publications to a claim/statement.
