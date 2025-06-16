@@ -79,4 +79,6 @@ This output aims to show an example publication matching for the given input. Th
 
 [](https://github.com/YSKartal/reference_disam#limitation)
 
+## Contact
 
+For questions or feedback, contact Yavuz Selim Kartal via [YavuzSelim.Kartal@gesis.org](mailto: YavuzSelim.Kartal@gesis.org).
