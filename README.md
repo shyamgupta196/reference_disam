@@ -49,10 +49,6 @@ This method can be run with [Jupyter](https://jupyter.org/) or [Google Colab](ht
 
 Please follow the instructions in the notebook
     
-## Disclaimer
-
-[](https://github.com/YSKartal/reference_disam#limitation)
-
 ## Contact Details
 
-For questions or feedback, contact Yavuz Selim Kartal via [YavuzSelim.Kartal@gesis.org](mailto: YavuzSelim.Kartal@gesis.org).
+For questions or feedback, contact Yavuz Selim Kartal via [YavuzSelim.Kartal@gesis.org](mailto:YavuzSelim.Kartal@gesis.org).
