@@ -15,7 +15,7 @@ The method takes an input claim or sentence from the user, computes its similari
 ## Input Data
 Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture -- effectively eradicating all genetic material of the virus within two days. 
 
----
+
     Peer-reviewed in the New England Journal of Medicine regarding Delta (B.1.617.2):  
     •Pfizer is ~90% effective  
     •AstraZeneca is ~70% effective.  
@@ -27,7 +27,7 @@ This output aims to show an example publication matching for the given input. Th
     Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture -- effectively eradicating all genetic material of the virus within two days.: 5g02ykhi -   
     Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant
 
----
+
 
     Peer-reviewed in the New England Journal of Medicine regarding Delta (B.1.617.2):  
         •Pfizer is ~90% effective  
