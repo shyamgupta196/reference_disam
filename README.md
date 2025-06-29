@@ -2,7 +2,7 @@
 # Scientific Claim Source Retrieval
 
 
-## Description
+## Learning Objectives
 
 Given an implicit reference to a scientific paper, i.e., a social media post (tweet) that mentions a research publication without a URL, this method enables to retrieve the mentioned paper from a pool of candidate papers. It was initially developed to leverage [CORD19](https://github.com/allenai/cord19), a corpus of academic papers about COVID-19 and related coronavirus research, however, it can be used with any corpus of publications with enough metadata. 
 
