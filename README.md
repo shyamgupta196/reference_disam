@@ -35,7 +35,7 @@ Example Output:
 
 - post_id: 12345678901
 - tweet_text: Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture, effectively eradicating all genetic material of the virus within two days.
-- cord_uid: 5g02ykhi
+- cord_uid: 5g02ykhi (Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant)
 
 ## Hardware Requirements
 The method runs on a cheap virtual machine provided by cloud computing company (2 x86 CPU core, 4 GB RAM, 40GB HDD). 
