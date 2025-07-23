@@ -41,7 +41,7 @@ This method works with both [Jupyter](https://jupyter.org/) and [Google Colab](h
  
 ## How to Use
 
-Please follow the instructions in the notebook
+Please follow the instructions in the [notebook](notebooks/getting_started_claim_source.ipynb).
 
 ## Technical Details
 Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture -- effectively eradicating all genetic material of the virus within two days. 
