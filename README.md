@@ -17,20 +17,25 @@ The method takes an input claim or sentence from the user, computes its similari
 The input data consists of social media posts having the following fields:
 
 - post_id : unique post ID in the collection
-- tweet_text : text of the post (tweet) paraphrased by LLMs
-- cord_uid : 
+- tweet_text : text of the post (tweet)
+
+Example Input:
+
+- post_id: 12345678901
+- tweet_text: Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture, effectively eradicating all genetic material of the virus within two days.
 
 ## Output Data
-This output aims to show an example publication matching for the given input. The real output of the method is seen in different format 
+This output aims to show an example publication matching for the given input.
 
-Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture, effectively eradicating all genetic material of the virus within two days.: 5g02ykhi -   
-    
-Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant
+- post_id : unique post ID in the collection
+- tweet_text : text of the post (tweet)
+- cord_uid: identifier of the matching publication
 
-Peer-reviewed in the New England Journal of Medicine regarding Delta (B.1.617.2):  
-- Pfizer is ~90% effective  
-- AstraZeneca is ~70% effective.  
-This falls in line with vaccine efficacy of other variants. Yes, the vaccines ARE indeed effective against Delta.: ivy95jpw - The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro
+Example Output:
+
+- post_id: 12345678901
+- tweet_text: Published in the journal Antiviral Research, the study from Monash University showed that a single dose of Ivermectin could stop the coronavirus growing in cell culture, effectively eradicating all genetic material of the virus within two days.
+- cord_uid: 5g02ykhi
 
 ## Hardware Requirements
 The method runs on a cheap virtual machine provided by cloud computing company (2 x86 CPU core, 4 GB RAM, 40GB HDD). 
