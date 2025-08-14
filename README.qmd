@@ -49,7 +49,7 @@ This output aims to show an example publication matching for the given input. Th
         This falls in line with vaccine efficacy of other variants. Yes, the vaccines ARE indeed effective against Delta.: ivy95jpw - The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro
 
 ## Hardware Requirements
-The method runs on a cheap virtual machine provided by cloud computing company (2 x86 CPU core, 4 GB RAM, 40GB HDD). 
+The method runs on a small virtual machine provided by cloud computing company (2 x86 CPU core, 4 GB RAM, 40GB HDD). 
 
 ## Environment Setup
 
